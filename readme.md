@@ -38,3 +38,7 @@ pnpm i @supabase/supabase-js
 ```sh
 pnpm add @rainbow-me/rainbowkit wagmi viem@2.x @tanstack/react-query install 
 ```
+
+```sh
+pnpm install @privy-io/react-auth@latest
+```
